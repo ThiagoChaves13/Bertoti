@@ -21,3 +21,12 @@ Não- funcionais:
 •	Será utilizada a Java como linguagem de programação
 •	Abrira tabelas de gráfico de vendas.
 
+## Diagramas
+### Diagrama de Sequência
+<img  src= "https://github.com/ThiagoChaves13/Bertoti/blob/main/Engenharia%20de%20software/Loja%20de%20Roupa/S%C3%AAquencia/Sequ%C3%AAncia.PNG" width="800px" height="600px"><br>
+
+### Diagrama de Casos de Uso
+<img src="https://github.com/ThiagoChaves13/Bertoti/blob/main/Engenharia%20de%20software/Loja%20de%20Roupa/Caso%20de%20uso/Caso%20de%20uso.PNG" width="800px" height="600px"><br>
+
+### Diagrama de Classes UML
+<img src="https://github.com/ThiagoChaves13/Bertoti/blob/main/Engenharia%20de%20software/Loja%20de%20Roupa/Diagrama%20de%20Classe/Diagrama%20de%20Classe.JPG" width="800px" height="600px"><br>
